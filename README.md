@@ -1,0 +1,5 @@
+- belajar machine learning classification dengan LogisticRegression
+- dataset tomat dengan jumlah 90 baris
+- end to end machine learning process
+- pengenalan StandardScaler
+- deployment menggunakan Streamlit
